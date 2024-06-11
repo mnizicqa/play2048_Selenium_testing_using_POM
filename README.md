@@ -1,5 +1,5 @@
 
-# play2048-Selenium-testing-using-POM
+# play2048_Selenium_testing_using_POM
 
 This is a project which I have done to solidify my Selenium testing framework skill. The goal of the project was to automate [play2048](https://play2048.co) website. Tests are written using Selenium framework and Java programming language. As a testing framework I have used TestNG, and tests are organized on the basis of POM (Page Object Model).
 
