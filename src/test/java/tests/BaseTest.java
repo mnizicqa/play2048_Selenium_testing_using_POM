@@ -51,7 +51,7 @@ public class BaseTest {
             }
             break;
             case "PROD": {
-                driver.get("https://www.play2048.co/");
+                driver.get("https://play2048.co/");
             }
             break;
             default:
